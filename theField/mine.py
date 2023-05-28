@@ -83,4 +83,4 @@ pts = [x + y*1j for y in range(len(img)) for x in range(len(img[0])) if img[y][x
 
 from GF2 import one
 
-print(one * 0)
+# print(one * 0)
